@@ -104,11 +104,11 @@
             <key code="2" output="Д"/>
             <key code="3" output="Ф"/>
             <key code="4" output="Х"/>
-            <key code="5" output="Г"/>
+            <key code="5" output="Ж"/>
             <key code="6" output="З"/>
             <key code="7" output="Ь"/>
             <key code="8" output="Ц"/>
-            <key code="9" output="Ж"/>
+            <key code="9" output="Г"/>
             <key code="10" output="Ч"/> <!-- ТУК Е Ч-то (под Esc) -->
             <key code="11" output="Б"/>
             <key code="12" output="Я"/>
@@ -178,11 +178,11 @@
             <key code="2" output="Д"/>
             <key code="3" output="Ф"/>
             <key code="4" output="Х"/>
-            <key code="5" output="Г"/>
+            <key code="5" output="Ж"/>
             <key code="6" output="З"/>
             <key code="7" output="Ь"/>
             <key code="8" output="Ц"/>
-            <key code="9" output="Ж"/>
+            <key code="9" output="Г"/>
             <key code="10" output="Ч"/>
             <key code="11" output="Б"/>
             <key code="12" output="Я"/>
