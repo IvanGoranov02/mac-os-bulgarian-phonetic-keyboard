@@ -26,7 +26,7 @@ If you rely on **comma** and **period** on the same keys as in the old phonetic 
 
 ## Keyboard Layout Variants
 
-This repository includes two keyboard layout files:
+The original repository includes two keyboard layout files:
 
 - **`KV-BG - Phonetic.keylayout`** - For standard ANSI keyboards (most US MacBooks and keyboards)
 - **`KV-BG - Phonetic ISO.keylayout`** - For ISO keyboards (European MacBooks and external keyboards)
